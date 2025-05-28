@@ -1,0 +1,11 @@
+@import './components/interactive-spinner.css';
+
+body {
+    font-family: monospace;
+    background-color: WhiteSmoke;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
